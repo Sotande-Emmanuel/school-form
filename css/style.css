@@ -1,0 +1,17 @@
+body{
+    background-color:purple;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    float: right;
+    background-color: blue;
+    border-radius: 20px;
+    width: 5%;
+    text-align: center;
+    color: white;
+}
